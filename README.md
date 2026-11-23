@@ -28,7 +28,7 @@ Final Year Project – **COMSATS University Islamabad, Wah Campus** (Session 202
 
 | | |
 |---|---|
-| **Developed by** | Aroona Noor (SP23-BCS-015) · Maryam Arif (SP23-BCS-005) |
+| **Developed by** | Aroona Noor · Maryam Arif |
 | **Supervised by** | Dr. Muhammad Khalil Afzal |
 
 ---
