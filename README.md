@@ -1,6 +1,19 @@
-**DesignToCode-App**
-AI-powered UXToolbox XML to WPF XAML + MVVM converter (Windows app download)
 
+<p align="center">
+  <img src="src/DesignToCode/assets/DesignToCode%20Logo.png" alt="DesignToCode Logo" width="160" />
+</p>
+
+<h3 align="center">AI-Powered UXToolbox XML to Production-Ready WPF & MVVM Architecture Converter</h3>
+
+<p align="center">
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0"><img src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white" alt=".NET 8.0" /></a>
+  <a href="https://github.com/dotnet/wpf"><img src="https://img.shields.io/badge/UI-WPF-0078D4?logo=windows&logoColor=white" alt="WPF" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/"><img src="https://img.shields.io/badge/MVVM-CommunityToolkit-0078D4" alt="CommunityToolkit.Mvvm" /></a>
+  <a href="https://github.com/microsoft/semantic-kernel"><img src="https://img.shields.io/badge/AI-Semantic%20Kernel-107C41?logo=openai&logoColor=white" alt="Semantic Kernel" /></a>
+  <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/Database-SQLite%20%2B%20EF%20Core-003B57?logo=sqlite&logoColor=white" alt="SQLite" /></a>
+</p>
+
+---
 **DesignToCode**
 
 AI-Powered UXToolbox XML to WPF XAML with MVVM Architecture
